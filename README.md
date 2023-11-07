@@ -3,7 +3,7 @@ CA1= This is a project to analyze Infant and neonatal Mortality in Ireland for t
 
 Installation
 Project was create using python programming
-Type if file = IPYNB File (.ipynb)
+Type of file = IPYNB File (.ipynb)
 
 Authors
 Paola Espinoza Potoy
